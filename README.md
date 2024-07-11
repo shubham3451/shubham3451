@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubham kumar</h1>
 <h3 align="center">A passionate backend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/fmkYSBlJt3XjNF6p9c/giphy.webp?cid=ecf05e47db229nw459ya992j8bior24bpc4cgo9ksdkendkq&ep=v1_gifs_search&rid=giphy.webp&ct=g">
-
+<!--<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/fmkYSBlJt3XjNF6p9c/giphy.webp?cid=ecf05e47db229nw459ya992j8bior24bpc4cgo9ksdkendkq&ep=v1_gifs_search&rid=giphy.webp&ct=g">
+-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham3451&label=Profile%20views&color=0e75b6&style=flat" alt="shubham" /> </p>
 
 - 🌱 I’m currently learning **Python/Django**
